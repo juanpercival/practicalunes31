@@ -1,0 +1,6 @@
+pwd
+touch LamineTamal.txt
+mkdir Fuck
+ls
+git add .
+git commit -m "Trata"
